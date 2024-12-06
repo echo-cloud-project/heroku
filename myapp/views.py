@@ -1,4 +1,5 @@
 from django.shortcuts import render
+import os
 
 # index 페이지 뷰 함수
 def index(request):
